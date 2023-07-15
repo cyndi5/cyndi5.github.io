@@ -17,7 +17,6 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: Home, icon: home}
-  - {file: "technical.md", title: Technical}
   - {url: "https://youtube.com/@cyndi5hunt", title: Subscribe}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
